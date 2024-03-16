@@ -31,3 +31,17 @@
 <!--  ![headerPuc_CDIA_Motion](https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/601663d2-be2e-4e05-88ad-a60c79131071) -->
 
 <br>
+
+  <!--  START HEADER  -->  
+<p align="center">  
+<img src="https://github.com/MindfulAI-Copilots-Bots/HackaPUCSP/assets/113218619/601663d2-be2e-4e05-88ad-a60c79131071" /> <br>
+ <!--  END HEADER  --> 
+  
+ <br> 
+ 
+<!--  START MAIN  -->
+ ##  <p align="center"> 🏆 HackaPUCSP - Ciência de Dados e Inteligência Artificial 
+ 
+ #### <p align="center"> 📅 2ª edição | 2024
+
+ <br>
